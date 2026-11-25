@@ -1,0 +1,15 @@
+edsr x4 (real): 1.52M params on cuda
+initialised from runs/edsr_x4/best.pt
+iter   1000 | loss 0.0404 | val PSNR 27.42 dB |   3.1 min  * new best
+iter   2000 | loss 0.0396 | val PSNR 27.52 dB |   5.2 min  * new best
+iter   3000 | loss 0.0394 | val PSNR 27.56 dB |   7.5 min  * new best
+iter   4000 | loss 0.0390 | val PSNR 27.64 dB |   9.5 min  * new best
+iter   5000 | loss 0.0388 | val PSNR 27.63 dB |  10.8 min
+iter   6000 | loss 0.0386 | val PSNR 27.64 dB |  12.0 min  * new best
+iter   7000 | loss 0.0385 | val PSNR 27.67 dB |  13.4 min  * new best
+iter   8000 | loss 0.0383 | val PSNR 27.72 dB |  14.5 min  * new best
+iter   9000 | loss 0.0382 | val PSNR 27.71 dB |  16.4 min
+iter  10000 | loss 0.0383 | val PSNR 27.70 dB |  18.3 min
+iter  11000 | loss 0.0380 | val PSNR 27.72 dB |  20.5 min  * new best
+iter  12000 | loss 0.0382 | val PSNR 27.71 dB |  22.3 min
+done. best val PSNR 27.72 dB -> runs\edsr_x4_real\best.pt

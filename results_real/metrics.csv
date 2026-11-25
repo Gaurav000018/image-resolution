@@ -1,0 +1,5 @@
+method,psnr_db,ssim,params
+Bicubic,25.936,0.6663,-
+SRCNN,25.824,0.6447,0.07M
+EDSR,25.492,0.6210,1.52M
+EDSR-REAL,27.171,0.7366,1.52M

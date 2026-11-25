@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Dataset (re-download with download_data.sh / prepare_data.py)
+data/
+
+# Keep best checkpoints only
+runs/**/last.pt
+
+# Local tooling
+.claude/
+node_modules/
